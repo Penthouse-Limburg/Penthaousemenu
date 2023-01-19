@@ -1,4 +1,22 @@
-img {
-    width: 95px;
-    height: 85px;
+#header1 {
+    border: solid;
+    padding-left: 0.7%;
+    background-color: rgb(0, 0, 0);
+}
+
+#fontheader {
+    font-family: "Gruppo";
+    font-size: 27px;
+    font-weight: bold;
+    color: gold;
+    font-style: bold;
+}
+
+#headerlogo {
+    width: 150px;
+    height: 150px;
+}
+
+body {
+    background-color: blue;
 }
