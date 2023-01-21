@@ -35,3 +35,25 @@ hr {
 }
 
 #preislisten {}
+
+table {
+    font-family: "Gruppo";
+    font-size: 27px;
+    font-weight: bold;
+    color: gold;
+    font-style: bold;
+    margin-left: 7%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+h2 {
+    font-family: "Gruppo";
+    font-size: 27px;
+    font-weight: bold;
+    color: gold;
+    font-style: bold;
+    margin-left: 7%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
