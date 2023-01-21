@@ -36,6 +36,11 @@ hr {
 
 #preislisten {}
 
+#slide {
+    width: 400px;
+    height: 200px;
+}
+
 table {
     font-family: "Gruppo";
     font-size: 27px;
